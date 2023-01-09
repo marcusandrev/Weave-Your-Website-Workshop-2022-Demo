@@ -6,3 +6,7 @@ The Weave Your Website from Scratch Workshop is a workshop organized by the Web 
 
 <b>Slide deck link: </b>https://bit.ly/Slides-WYW22
 <b>Figma Design link: </b>https://bit.ly/Figma-WYW22
+
+# SORRY ANDRE, GIT 101 LANG SAGLIT SKSKSKS 🤣🤣
+
+# Another change
